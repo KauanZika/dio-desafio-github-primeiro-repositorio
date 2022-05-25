@@ -1,6 +1,7 @@
 # Discord Bot com Slash Commands 
 
  [Baseado neste tutorial](https://youtu.be/HHNLSow5p5c)
+ [Based On](https://youtu.be/HHNLSow5p5c)
 
 ## Conteúdo
 
