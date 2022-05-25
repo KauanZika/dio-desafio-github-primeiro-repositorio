@@ -1,20 +1,18 @@
-# Discord Bot Slash Commands Tutorial + Moderation Commands
+# Discord Bot com Slash Commands 
 
-See full tutorial video [here](https://youtu.be/HHNLSow5p5c)
+ [Baseado neste tutorial](https://youtu.be/HHNLSow5p5c)
 
-## Content
+## Conteúdo
 
-- Slash Command handler with permission handler
-- Slash Command loading & deploying
-- Timeout command
-- Kick command
-- Ban command
+- Comando de Timeout
+- Comando de Expulsão
+- Comando de Banimento
 
 ## Commands
-**Start the bot**
+**para dar start no bot**
 
 `node index.js`
 
-**Deploy slash commands**
+**Implantar os slash commands**
 
 `node loadslash.js`
